@@ -1,0 +1,2 @@
+# 8INF846_Intelligence_artificielle
+8INF846 Intelligence artificielle
